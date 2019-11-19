@@ -1,18 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 18 10:10:53 2019
-
-@author: gisa_
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 18 10:08:43 2019
-
-@author: gisa_
-"""
-
-"""
 @author: gisa_
 """
 
